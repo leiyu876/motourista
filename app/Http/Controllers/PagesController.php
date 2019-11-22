@@ -15,4 +15,9 @@ class PagesController extends Controller
     {
     	return view('pages.photography');
     }
+
+    public function event()
+    {
+    	return view('pages.event');
+    }
 }
