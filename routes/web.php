@@ -16,6 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('/about', 'PagesController@about')->name('about');
+Route::get('/photography', 'PagesController@photography')->name('photography');
 
 Auth::routes();
 
