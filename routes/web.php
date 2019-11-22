@@ -18,6 +18,7 @@ Route::get('/', function () {
 Route::get('/about', 'PagesController@about')->name('about');
 Route::get('/photography', 'PagesController@photography')->name('photography');
 Route::get('/event', 'PagesController@event')->name('event');
+Route::get('/contact', 'PagesController@contact')->name('contact');
 
 Auth::routes();
 

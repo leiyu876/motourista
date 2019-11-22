@@ -20,4 +20,9 @@ class PagesController extends Controller
     {
     	return view('pages.event');
     }
+
+    public function contact()
+    {
+    	return view('pages.contact');
+    }
 }

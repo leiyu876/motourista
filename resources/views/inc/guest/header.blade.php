@@ -30,7 +30,9 @@
             <li class="{{ Request::is('event') ? 'active' : '' }}" >
               <a href="{{ route('event') }}" class="nav-link">Event</a>
             </li>
-            <li><a href="contact.html" class="nav-link">Contact</a></li>
+            <li class="{{ Request::is('contact') ? 'active' : '' }}" >
+              <a href="{{ route('contact') }}" class="nav-link">Contact</a>
+            </li>
           </ul>
         </nav>
       </div>
