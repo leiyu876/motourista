@@ -5,7 +5,7 @@
 
       <div class="col-3 ">
         <div class="site-logo">
-          <a href="index.html" class="font-weight-bold">Capture</a>
+          <a href="{{ url('/') }}" class="font-weight-bold">Motourista</a>
         </div>
       </div>
 

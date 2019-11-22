@@ -15,7 +15,8 @@
            
 
            <div class="social_29128 white mt-5">
-            <a href="#"><span class="icon-facebook"></span></a>  
+            <a href="https://www.youtube.com/channel/UC370Ko53EefExsKhgC4tzug"><span class="icon-youtube"></span></a> 
+            <a href="https://www.facebook.com/RS041MOTOURISTA"><span class="icon-facebook"></span></a>  
             <a href="#"><span class="icon-instagram"></span></a>  
             <a href="#"><span class="icon-twitter"></span></a>  
            </div>
